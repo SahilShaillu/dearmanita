@@ -28,14 +28,14 @@
   "use strict";
 
   const galleryImages = [
-    { src: "assets/images/photo-01.jpg", caption: "My favourite smile ❤️" },
-    { src: "assets/images/photo-02.jpg", caption: "Beautiful as always 💗" },
-    { src: "assets/images/photo-03.jpg", caption: "That laugh I love" },
-    { src: "assets/images/photo-04.jpg", caption: "Us, being us" },
-    { src: "assets/images/photo-05.jpg", caption: "A little candid moment" },
-    { src: "assets/images/photo-06.jpg", caption: "One of my favourite days" },
-    { src: "assets/images/photo-07.jpg", caption: "Just you" },
-    { src: "assets/images/photo-08.jpg", caption: "Golden hour, golden girl" }
+    { src: "assets/images/photo-01.jpg", caption: "My favourite smile 🥹💖" },
+    { src: "assets/images/photo-02.jpg", caption: "Beautiful as always 🦋💗" },
+    { src: "assets/images/photo-03.jpg", caption: "That laugh I love 🫶🏻💕" },
+    { src: "assets/images/photo-04.jpg", caption: "My favourite part of life 🪷🤍" },
+    { src: "assets/images/photo-05.jpg", caption: "A little candid moment 🥰🌷" },
+    { src: "assets/images/photo-06.jpg", caption: "One of my favourite days 🌸✨" },
+    { src: "assets/images/photo-07.jpg", caption: "Just you 🧸💞" },
+    { src: "assets/images/photo-08.jpg", caption: "Golden hour, golden girl 💛✨" }
   ];
 
   const grid = document.getElementById("galleryGrid");
