@@ -1,0 +1,11 @@
+This project was created as a personal gift.
+
+You are free to use, copy, modify, and adapt this code for your own
+personal, non-commercial purposes (for example, making a similar
+birthday website for someone else).
+
+The code is provided "as is", without warranty of any kind, express
+or implied. The author is not liable for any claim, damages, or other
+liability arising from its use.
+
+No attribution is required, but it's always appreciated. ❤️
