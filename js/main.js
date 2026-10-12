@@ -527,7 +527,7 @@
      navigates straight to manita.html. */
   const bridgeHeart = document.getElementById("bridgeHeart");
   if (bridgeHeart) {
-    const HOLD_DURATION = 4000;
+    const HOLD_DURATION = 2500;
     let holdStart = null;
     let rafId = null;
     let completed = false;
