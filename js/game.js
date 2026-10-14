@@ -52,8 +52,8 @@
     { emoji: "✨", points: 5, message: "+Sparkle ✨" }
   ];
   const BAD = [
-    { emoji: "😂", message: "OH NO. RUN. 😂", type: "gussa" },
-    { emoji: "😤", message: "Nakhre incoming... 😤", type: "nakhre" },
+    { emoji: "😤", message: "OH NO. RUN. 😤", type: "gussa" },
+    { emoji: "😏", message: "Nakhre incoming... 😏", type: "nakhre" },
     { emoji: "💢", message: "3 MONTHS SALARY 💢", type: "salary" }
   ];
 
